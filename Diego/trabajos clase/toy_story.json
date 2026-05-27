@@ -1,0 +1,1771 @@
+{
+  "network": {
+    "edges": [
+      {
+        "source": "ATTENDANT",
+        "target": "ANDY",
+        "weight": 1
+      },
+      {
+        "source": "ATTENDANT",
+        "target": "BUZZ",
+        "weight": 2
+      },
+      {
+        "source": "ATTENDANT",
+        "target": "PIZZA DELIVERER",
+        "weight": 2
+      },
+      {
+        "source": "ATTENDANT",
+        "target": "MRS DAVIS",
+        "weight": 1
+      },
+      {
+        "source": "ATTENDANT",
+        "target": "WOODY",
+        "weight": 2
+      },
+      {
+        "source": "MR SPELL",
+        "target": "ANDY",
+        "weight": 1
+      },
+      {
+        "source": "MR SPELL",
+        "target": "HAMM",
+        "weight": 1
+      },
+      {
+        "source": "MR SPELL",
+        "target": "MR POTATO HEAD",
+        "weight": 1
+      },
+      {
+        "source": "MR SPELL",
+        "target": "MIKE",
+        "weight": 1
+      },
+      {
+        "source": "MR SPELL",
+        "target": "SLINKY",
+        "weight": 1
+      },
+      {
+        "source": "MR SPELL",
+        "target": "REX",
+        "weight": 1
+      },
+      {
+        "source": "MR SPELL",
+        "target": "SARGENT",
+        "weight": 1
+      },
+      {
+        "source": "MR SPELL",
+        "target": "BO PEEP",
+        "weight": 1
+      },
+      {
+        "source": "MR SPELL",
+        "target": "WOODY",
+        "weight": 1
+      },
+      {
+        "source": "KID #2",
+        "target": "BUZZ",
+        "weight": 1
+      },
+      {
+        "source": "KID #2",
+        "target": "TV ANNOUNCER",
+        "weight": 1
+      },
+      {
+        "source": "KID #2",
+        "target": "SPACE COMMANDER",
+        "weight": 1
+      },
+      {
+        "source": "KID #2",
+        "target": "KID #1",
+        "weight": 1
+      },
+      {
+        "source": "KID #2",
+        "target": "LOCAL ANNOUNCER",
+        "weight": 1
+      },
+      {
+        "source": "KID #2",
+        "target": "TV BUZZ",
+        "weight": 1
+      },
+      {
+        "source": "KID #2",
+        "target": "MALE CHORUS",
+        "weight": 1
+      },
+      {
+        "source": "MOM",
+        "target": "HANNAH",
+        "weight": 1
+      },
+      {
+        "source": "SID'S MOM",
+        "target": "BUZZ",
+        "weight": 1
+      },
+      {
+        "source": "SID'S MOM",
+        "target": "SID",
+        "weight": 1
+      },
+      {
+        "source": "SID'S MOM",
+        "target": "WOODY",
+        "weight": 1
+      },
+      {
+        "source": "ROBOT",
+        "target": "BUZZ",
+        "weight": 1
+      },
+      {
+        "source": "ROBOT",
+        "target": "LENNY",
+        "weight": 1
+      },
+      {
+        "source": "ROBOT",
+        "target": "HAMM",
+        "weight": 1
+      },
+      {
+        "source": "ROBOT",
+        "target": "WOODY",
+        "weight": 1
+      },
+      {
+        "source": "ROBOT",
+        "target": "REX",
+        "weight": 1
+      },
+      {
+        "source": "ROBOT",
+        "target": "MR POTATO HEAD",
+        "weight": 1
+      },
+      {
+        "source": "ROBOT",
+        "target": "SID",
+        "weight": 1
+      },
+      {
+        "source": "ROBOT",
+        "target": "BO PEEP",
+        "weight": 1
+      },
+      {
+        "source": "ROBOT",
+        "target": "SLINKY",
+        "weight": 1
+      },
+      {
+        "source": "MR POTATO HEAD",
+        "target": "SLINKY",
+        "weight": 5
+      },
+      {
+        "source": "MR POTATO HEAD",
+        "target": "ANDY",
+        "weight": 4
+      },
+      {
+        "source": "MR POTATO HEAD",
+        "target": "FRIEND #2",
+        "weight": 1
+      },
+      {
+        "source": "MR POTATO HEAD",
+        "target": "SARGENT",
+        "weight": 5
+      },
+      {
+        "source": "MR POTATO HEAD",
+        "target": "SID",
+        "weight": 1
+      },
+      {
+        "source": "MR POTATO HEAD",
+        "target": "BO PEEP",
+        "weight": 5
+      },
+      {
+        "source": "MR POTATO HEAD",
+        "target": "LENNY",
+        "weight": 1
+      },
+      {
+        "source": "MR POTATO HEAD",
+        "target": "BUZZ",
+        "weight": 4
+      },
+      {
+        "source": "MR POTATO HEAD",
+        "target": "HAMM",
+        "weight": 8
+      },
+      {
+        "source": "MR POTATO HEAD",
+        "target": "FRIEND #1",
+        "weight": 1
+      },
+      {
+        "source": "MR POTATO HEAD",
+        "target": "MIKE",
+        "weight": 1
+      },
+      {
+        "source": "MR POTATO HEAD",
+        "target": "WOODY",
+        "weight": 13
+      },
+      {
+        "source": "MR POTATO HEAD",
+        "target": "TOYS",
+        "weight": 2
+      },
+      {
+        "source": "MR POTATO HEAD",
+        "target": "REX",
+        "weight": 10
+      },
+      {
+        "source": "MR POTATO HEAD",
+        "target": "RC CAR",
+        "weight": 1
+      },
+      {
+        "source": "MR POTATO HEAD",
+        "target": "MRS DAVIS",
+        "weight": 3
+      },
+      {
+        "source": "SID",
+        "target": "ALIEN #2",
+        "weight": 1
+      },
+      {
+        "source": "SID",
+        "target": "SLINKY",
+        "weight": 1
+      },
+      {
+        "source": "SID",
+        "target": "HANNAH",
+        "weight": 1
+      },
+      {
+        "source": "SID",
+        "target": "BO PEEP",
+        "weight": 1
+      },
+      {
+        "source": "SID",
+        "target": "LENNY",
+        "weight": 1
+      },
+      {
+        "source": "SID",
+        "target": "BUZZ",
+        "weight": 4
+      },
+      {
+        "source": "SID",
+        "target": "HAMM",
+        "weight": 2
+      },
+      {
+        "source": "SID",
+        "target": "WOODY",
+        "weight": 5
+      },
+      {
+        "source": "SID",
+        "target": "ALIEN #1",
+        "weight": 1
+      },
+      {
+        "source": "SID",
+        "target": "REX",
+        "weight": 1
+      },
+      {
+        "source": "SID",
+        "target": "ALIEN #3",
+        "weight": 1
+      },
+      {
+        "source": "SID",
+        "target": "ALIEN #4",
+        "weight": 1
+      },
+      {
+        "source": "SID",
+        "target": "ALIENS",
+        "weight": 1
+      },
+      {
+        "source": "SID",
+        "target": "ALIEN",
+        "weight": 1
+      },
+      {
+        "source": "LENNY",
+        "target": "BUZZ",
+        "weight": 1
+      },
+      {
+        "source": "LENNY",
+        "target": "REX",
+        "weight": 2
+      },
+      {
+        "source": "LENNY",
+        "target": "HAMM",
+        "weight": 1
+      },
+      {
+        "source": "LENNY",
+        "target": "SLINKY",
+        "weight": 2
+      },
+      {
+        "source": "LENNY",
+        "target": "TOYS",
+        "weight": 1
+      },
+      {
+        "source": "LENNY",
+        "target": "BO PEEP",
+        "weight": 1
+      },
+      {
+        "source": "LENNY",
+        "target": "WOODY",
+        "weight": 1
+      },
+      {
+        "source": "HAMM",
+        "target": "SARGENT",
+        "weight": 5
+      },
+      {
+        "source": "HAMM",
+        "target": "SLINKY",
+        "weight": 3
+      },
+      {
+        "source": "HAMM",
+        "target": "ANDY",
+        "weight": 4
+      },
+      {
+        "source": "HAMM",
+        "target": "FRIEND #2",
+        "weight": 1
+      },
+      {
+        "source": "HAMM",
+        "target": "BO PEEP",
+        "weight": 4
+      },
+      {
+        "source": "HAMM",
+        "target": "BUZZ",
+        "weight": 4
+      },
+      {
+        "source": "HAMM",
+        "target": "FRIEND #1",
+        "weight": 1
+      },
+      {
+        "source": "HAMM",
+        "target": "MIKE",
+        "weight": 1
+      },
+      {
+        "source": "HAMM",
+        "target": "WOODY",
+        "weight": 7
+      },
+      {
+        "source": "HAMM",
+        "target": "TOYS",
+        "weight": 1
+      },
+      {
+        "source": "HAMM",
+        "target": "REX",
+        "weight": 6
+      },
+      {
+        "source": "HAMM",
+        "target": "RC CAR",
+        "weight": 1
+      },
+      {
+        "source": "HAMM",
+        "target": "MRS DAVIS",
+        "weight": 3
+      },
+      {
+        "source": "ALIEN",
+        "target": "BUZZ",
+        "weight": 1
+      },
+      {
+        "source": "ALIEN",
+        "target": "HANNAH",
+        "weight": 1
+      },
+      {
+        "source": "ALIEN",
+        "target": "WOODY",
+        "weight": 1
+      },
+      {
+        "source": "REX",
+        "target": "SARGENT",
+        "weight": 4
+      },
+      {
+        "source": "REX",
+        "target": "SLINKY",
+        "weight": 6
+      },
+      {
+        "source": "REX",
+        "target": "ANDY",
+        "weight": 3
+      },
+      {
+        "source": "REX",
+        "target": "FRIEND #2",
+        "weight": 1
+      },
+      {
+        "source": "REX",
+        "target": "BO PEEP",
+        "weight": 8
+      },
+      {
+        "source": "REX",
+        "target": "BUZZ",
+        "weight": 2
+      },
+      {
+        "source": "REX",
+        "target": "MIKE",
+        "weight": 1
+      },
+      {
+        "source": "REX",
+        "target": "WOODY",
+        "weight": 6
+      },
+      {
+        "source": "REX",
+        "target": "TOYS",
+        "weight": 3
+      },
+      {
+        "source": "REX",
+        "target": "FRIEND #1",
+        "weight": 1
+      },
+      {
+        "source": "REX",
+        "target": "RC CAR",
+        "weight": 1
+      },
+      {
+        "source": "REX",
+        "target": "MRS DAVIS",
+        "weight": 2
+      },
+      {
+        "source": "LOCAL ANNOUNCER",
+        "target": "BUZZ",
+        "weight": 1
+      },
+      {
+        "source": "LOCAL ANNOUNCER",
+        "target": "TV ANNOUNCER",
+        "weight": 1
+      },
+      {
+        "source": "LOCAL ANNOUNCER",
+        "target": "SPACE COMMANDER",
+        "weight": 1
+      },
+      {
+        "source": "LOCAL ANNOUNCER",
+        "target": "KID #1",
+        "weight": 1
+      },
+      {
+        "source": "LOCAL ANNOUNCER",
+        "target": "TV BUZZ",
+        "weight": 1
+      },
+      {
+        "source": "LOCAL ANNOUNCER",
+        "target": "MALE CHORUS",
+        "weight": 1
+      },
+      {
+        "source": "RC CAR",
+        "target": "BUZZ",
+        "weight": 1
+      },
+      {
+        "source": "RC CAR",
+        "target": "ANDY",
+        "weight": 1
+      },
+      {
+        "source": "RC CAR",
+        "target": "WOODY",
+        "weight": 1
+      },
+      {
+        "source": "RC CAR",
+        "target": "BO PEEP",
+        "weight": 1
+      },
+      {
+        "source": "RC CAR",
+        "target": "TOYS",
+        "weight": 1
+      },
+      {
+        "source": "RC CAR",
+        "target": "SARGENT",
+        "weight": 1
+      },
+      {
+        "source": "RC CAR",
+        "target": "MRS DAVIS",
+        "weight": 1
+      },
+      {
+        "source": "RC CAR",
+        "target": "SLINKY",
+        "weight": 1
+      },
+      {
+        "source": "ALIEN #3",
+        "target": "ALIEN #2",
+        "weight": 1
+      },
+      {
+        "source": "ALIEN #3",
+        "target": "BUZZ",
+        "weight": 1
+      },
+      {
+        "source": "ALIEN #3",
+        "target": "ALIENS",
+        "weight": 1
+      },
+      {
+        "source": "ALIEN #3",
+        "target": "ALIEN #1",
+        "weight": 1
+      },
+      {
+        "source": "ALIEN #3",
+        "target": "ALIEN #4",
+        "weight": 1
+      },
+      {
+        "source": "ALIEN #3",
+        "target": "WOODY",
+        "weight": 1
+      },
+      {
+        "source": "MALE CHORUS",
+        "target": "BUZZ",
+        "weight": 1
+      },
+      {
+        "source": "MALE CHORUS",
+        "target": "TV ANNOUNCER",
+        "weight": 1
+      },
+      {
+        "source": "MALE CHORUS",
+        "target": "SPACE COMMANDER",
+        "weight": 1
+      },
+      {
+        "source": "MALE CHORUS",
+        "target": "KID #1",
+        "weight": 1
+      },
+      {
+        "source": "MALE CHORUS",
+        "target": "TV BUZZ",
+        "weight": 1
+      },
+      {
+        "source": "BUZZ",
+        "target": "ALIENS",
+        "weight": 1
+      },
+      {
+        "source": "BUZZ",
+        "target": "TV ANNOUNCER",
+        "weight": 1
+      },
+      {
+        "source": "BUZZ",
+        "target": "SLINKY",
+        "weight": 3
+      },
+      {
+        "source": "BUZZ",
+        "target": "KID #1",
+        "weight": 1
+      },
+      {
+        "source": "BUZZ",
+        "target": "ANDY",
+        "weight": 4
+      },
+      {
+        "source": "BUZZ",
+        "target": "TOYS",
+        "weight": 1
+      },
+      {
+        "source": "BUZZ",
+        "target": "SARGENT",
+        "weight": 2
+      },
+      {
+        "source": "BUZZ",
+        "target": "TV BUZZ",
+        "weight": 1
+      },
+      {
+        "source": "BUZZ",
+        "target": "PIZZA DELIVERER",
+        "weight": 1
+      },
+      {
+        "source": "BUZZ",
+        "target": "BO PEEP",
+        "weight": 3
+      },
+      {
+        "source": "BUZZ",
+        "target": "ROBOT GUARDS",
+        "weight": 2
+      },
+      {
+        "source": "BUZZ",
+        "target": "ALIEN #2",
+        "weight": 1
+      },
+      {
+        "source": "BUZZ",
+        "target": "HANNAH",
+        "weight": 2
+      },
+      {
+        "source": "BUZZ",
+        "target": "FRIEND #2",
+        "weight": 1
+      },
+      {
+        "source": "BUZZ",
+        "target": "FRIEND #1",
+        "weight": 1
+      },
+      {
+        "source": "BUZZ",
+        "target": "ALIEN #4",
+        "weight": 1
+      },
+      {
+        "source": "BUZZ",
+        "target": "ALIEN #1",
+        "weight": 1
+      },
+      {
+        "source": "BUZZ",
+        "target": "SPACE COMMANDER",
+        "weight": 1
+      },
+      {
+        "source": "BUZZ",
+        "target": "MRS DAVIS",
+        "weight": 4
+      },
+      {
+        "source": "BUZZ",
+        "target": "WOODY",
+        "weight": 18
+      },
+      {
+        "source": "TV ANNOUNCER",
+        "target": "SPACE COMMANDER",
+        "weight": 1
+      },
+      {
+        "source": "TV ANNOUNCER",
+        "target": "KID #1",
+        "weight": 1
+      },
+      {
+        "source": "TV ANNOUNCER",
+        "target": "TV BUZZ",
+        "weight": 1
+      },
+      {
+        "source": "HANNAH",
+        "target": "WOODY",
+        "weight": 3
+      },
+      {
+        "source": "SLINKY",
+        "target": "ANDY",
+        "weight": 3
+      },
+      {
+        "source": "SLINKY",
+        "target": "SARGENT",
+        "weight": 3
+      },
+      {
+        "source": "SLINKY",
+        "target": "FRIEND #2",
+        "weight": 1
+      },
+      {
+        "source": "SLINKY",
+        "target": "WOUNDED SOLDIER",
+        "weight": 1
+      },
+      {
+        "source": "SLINKY",
+        "target": "BO PEEP",
+        "weight": 6
+      },
+      {
+        "source": "SLINKY",
+        "target": "FRIEND #1",
+        "weight": 1
+      },
+      {
+        "source": "SLINKY",
+        "target": "MIKE",
+        "weight": 1
+      },
+      {
+        "source": "SLINKY",
+        "target": "WOODY",
+        "weight": 9
+      },
+      {
+        "source": "SLINKY",
+        "target": "TOYS",
+        "weight": 3
+      },
+      {
+        "source": "SLINKY",
+        "target": "MRS DAVIS",
+        "weight": 2
+      },
+      {
+        "source": "KID #1",
+        "target": "SPACE COMMANDER",
+        "weight": 1
+      },
+      {
+        "source": "KID #1",
+        "target": "TV BUZZ",
+        "weight": 1
+      },
+      {
+        "source": "ANDY",
+        "target": "SARGENT",
+        "weight": 3
+      },
+      {
+        "source": "ANDY",
+        "target": "TOYS",
+        "weight": 1
+      },
+      {
+        "source": "ANDY",
+        "target": "PIZZA DELIVERER",
+        "weight": 1
+      },
+      {
+        "source": "ANDY",
+        "target": "BO PEEP",
+        "weight": 5
+      },
+      {
+        "source": "ANDY",
+        "target": "FRIEND #1",
+        "weight": 1
+      },
+      {
+        "source": "ANDY",
+        "target": "MIKE",
+        "weight": 1
+      },
+      {
+        "source": "ANDY",
+        "target": "WOODY",
+        "weight": 4
+      },
+      {
+        "source": "ANDY",
+        "target": "FRIEND #2",
+        "weight": 1
+      },
+      {
+        "source": "ANDY",
+        "target": "MRS DAVIS",
+        "weight": 9
+      },
+      {
+        "source": "TOYS",
+        "target": "SARGENT",
+        "weight": 1
+      },
+      {
+        "source": "TOYS",
+        "target": "BO PEEP",
+        "weight": 2
+      },
+      {
+        "source": "TOYS",
+        "target": "WOODY",
+        "weight": 1
+      },
+      {
+        "source": "TOYS",
+        "target": "MRS DAVIS",
+        "weight": 1
+      },
+      {
+        "source": "SARGENT",
+        "target": "FRIEND #2",
+        "weight": 1
+      },
+      {
+        "source": "SARGENT",
+        "target": "BO PEEP",
+        "weight": 3
+      },
+      {
+        "source": "SARGENT",
+        "target": "FRIEND #1",
+        "weight": 1
+      },
+      {
+        "source": "SARGENT",
+        "target": "MIKE",
+        "weight": 1
+      },
+      {
+        "source": "SARGENT",
+        "target": "WOODY",
+        "weight": 4
+      },
+      {
+        "source": "SARGENT",
+        "target": "MRS DAVIS",
+        "weight": 2
+      },
+      {
+        "source": "TV BUZZ",
+        "target": "SPACE COMMANDER",
+        "weight": 1
+      },
+      {
+        "source": "PIZZA DELIVERER",
+        "target": "MRS DAVIS",
+        "weight": 1
+      },
+      {
+        "source": "PIZZA DELIVERER",
+        "target": "WOODY",
+        "weight": 1
+      },
+      {
+        "source": "BO PEEP",
+        "target": "FRIEND #1",
+        "weight": 1
+      },
+      {
+        "source": "BO PEEP",
+        "target": "MIKE",
+        "weight": 1
+      },
+      {
+        "source": "BO PEEP",
+        "target": "WOODY",
+        "weight": 6
+      },
+      {
+        "source": "BO PEEP",
+        "target": "FRIEND #2",
+        "weight": 1
+      },
+      {
+        "source": "BO PEEP",
+        "target": "MRS DAVIS",
+        "weight": 4
+      },
+      {
+        "source": "ALIEN #2",
+        "target": "WOODY",
+        "weight": 1
+      },
+      {
+        "source": "ALIEN #2",
+        "target": "ALIEN #1",
+        "weight": 2
+      },
+      {
+        "source": "ALIEN #2",
+        "target": "ALIEN #4",
+        "weight": 1
+      },
+      {
+        "source": "ALIEN #2",
+        "target": "ALIENS",
+        "weight": 1
+      },
+      {
+        "source": "MIKE",
+        "target": "WOODY",
+        "weight": 1
+      },
+      {
+        "source": "WOODY",
+        "target": "ALIEN #4",
+        "weight": 1
+      },
+      {
+        "source": "WOODY",
+        "target": "FRIEND #2",
+        "weight": 1
+      },
+      {
+        "source": "WOODY",
+        "target": "FRIEND #1",
+        "weight": 1
+      },
+      {
+        "source": "WOODY",
+        "target": "ALIEN #1",
+        "weight": 1
+      },
+      {
+        "source": "WOODY",
+        "target": "MRS DAVIS",
+        "weight": 4
+      },
+      {
+        "source": "WOODY",
+        "target": "ALIENS",
+        "weight": 1
+      },
+      {
+        "source": "FRIEND #2",
+        "target": "FRIEND #1",
+        "weight": 1
+      },
+      {
+        "source": "FRIEND #2",
+        "target": "MRS DAVIS",
+        "weight": 1
+      },
+      {
+        "source": "FRIEND #1",
+        "target": "MRS DAVIS",
+        "weight": 1
+      },
+      {
+        "source": "ALIEN #4",
+        "target": "ALIENS",
+        "weight": 1
+      },
+      {
+        "source": "ALIEN #4",
+        "target": "ALIEN #1",
+        "weight": 1
+      },
+      {
+        "source": "ALIEN #1",
+        "target": "ALIENS",
+        "weight": 1
+      }
+    ],
+    "nodes": [
+      {
+        "id": "ATTENDANT",
+        "name": "ATTENDANT",
+        "color": "#FFD12B",
+        "group": 2,
+        "degree": 5,
+        "pagerank": 0.012234094233420891,
+        "object_id": "5155201",
+        "triangles": 10,
+        "eccentricity": 3.0,
+        "closeness centrality": 1.9210526315789473,
+        "betweenness centrality": 0.0,
+        "eigenvector centrality": 0
+      },
+      {
+        "id": "MR SPELL",
+        "name": "MR SPELL",
+        "color": "#3E85FA",
+        "group": 1,
+        "degree": 9,
+        "pagerank": 0.011605016206725858,
+        "object_id": "5153082",
+        "triangles": 36,
+        "eccentricity": 3.0,
+        "closeness centrality": 2.0,
+        "betweenness centrality": 0.0,
+        "eigenvector centrality": 0
+      },
+      {
+        "id": "KID #2",
+        "name": "KID #2",
+        "color": "#1FAA54",
+        "group": 3,
+        "degree": 7,
+        "pagerank": 0.018004600973410324,
+        "object_id": "5156465",
+        "triangles": 21,
+        "eccentricity": 3.0,
+        "closeness centrality": 1.9210526315789473,
+        "betweenness centrality": 0.0,
+        "eigenvector centrality": 0
+      },
+      {
+        "id": "MOM",
+        "name": "MOM",
+        "color": "#7A40BB",
+        "group": 0,
+        "degree": 1,
+        "pagerank": 0.005576570721241194,
+        "object_id": "5156591",
+        "triangles": 0,
+        "eccentricity": 4.0,
+        "closeness centrality": 2.8684210526315788,
+        "betweenness centrality": 0.0,
+        "eigenvector centrality": 0
+      },
+      {
+        "id": "SID'S MOM",
+        "name": "SID'S MOM",
+        "color": "#7A40BB",
+        "group": 0,
+        "degree": 3,
+        "pagerank": 0.006897865899751679,
+        "object_id": "5156187",
+        "triangles": 3,
+        "eccentricity": 3.0,
+        "closeness centrality": 1.9736842105263157,
+        "betweenness centrality": 0.0,
+        "eigenvector centrality": 0
+      },
+      {
+        "id": "ROBOT",
+        "name": "ROBOT",
+        "color": "#3E85FA",
+        "group": 1,
+        "degree": 9,
+        "pagerank": 0.012048142579454451,
+        "object_id": "5154295",
+        "triangles": 36,
+        "eccentricity": 3.0,
+        "closeness centrality": 1.7894736842105263,
+        "betweenness centrality": 0.0,
+        "eigenvector centrality": 0
+      },
+      {
+        "id": "MR POTATO HEAD",
+        "name": "MR POTATO HEAD",
+        "color": "#3E85FA",
+        "group": 1,
+        "degree": 18,
+        "pagerank": 0.06304758721564933,
+        "object_id": "5152817",
+        "triangles": 111,
+        "eccentricity": 3.0,
+        "closeness centrality": 1.5526315789473684,
+        "betweenness centrality": 7.6499999999999995,
+        "eigenvector centrality": 0
+      },
+      {
+        "id": "SID",
+        "name": "SID",
+        "color": "#7A40BB",
+        "group": 0,
+        "degree": 17,
+        "pagerank": 0.03307850071361711,
+        "object_id": "5154385",
+        "triangles": 63,
+        "eccentricity": 2.0,
+        "closeness centrality": 1.5526315789473684,
+        "betweenness centrality": 31.666666666666664,
+        "eigenvector centrality": 0
+      },
+      {
+        "id": "LENNY",
+        "name": "LENNY",
+        "color": "#3E85FA",
+        "group": 1,
+        "degree": 10,
+        "pagerank": 0.01473395804870404,
+        "object_id": "5154425",
+        "triangles": 43,
+        "eccentricity": 3.0,
+        "closeness centrality": 1.763157894736842,
+        "betweenness centrality": 0.25,
+        "eigenvector centrality": 0
+      },
+      {
+        "id": "HAMM",
+        "name": "HAMM",
+        "color": "#3E85FA",
+        "group": 1,
+        "degree": 18,
+        "pagerank": 0.052006632482548124,
+        "object_id": "5152829",
+        "triangles": 111,
+        "eccentricity": 3.0,
+        "closeness centrality": 1.5526315789473684,
+        "betweenness centrality": 7.6499999999999995,
+        "eigenvector centrality": 0
+      },
+      {
+        "id": "ALIEN",
+        "name": "ALIEN",
+        "color": "#7A40BB",
+        "group": 0,
+        "degree": 4,
+        "pagerank": 0.008628282774839026,
+        "object_id": "5155783",
+        "triangles": 6,
+        "eccentricity": 3.0,
+        "closeness centrality": 1.9210526315789473,
+        "betweenness centrality": 0.0,
+        "eigenvector centrality": 0
+      },
+      {
+        "id": "REX",
+        "name": "REX",
+        "color": "#3E85FA",
+        "group": 1,
+        "degree": 18,
+        "pagerank": 0.05582880824989124,
+        "object_id": "5152953",
+        "triangles": 111,
+        "eccentricity": 3.0,
+        "closeness centrality": 1.5526315789473684,
+        "betweenness centrality": 7.6499999999999995,
+        "eigenvector centrality": 0
+      },
+      {
+        "id": "LOCAL ANNOUNCER",
+        "name": "LOCAL ANNOUNCER",
+        "color": "#1FAA54",
+        "group": 3,
+        "degree": 7,
+        "pagerank": 0.018004600973410324,
+        "object_id": "5156518",
+        "triangles": 21,
+        "eccentricity": 3.0,
+        "closeness centrality": 1.9210526315789473,
+        "betweenness centrality": 0.0,
+        "eigenvector centrality": 0
+      },
+      {
+        "id": "RC CAR",
+        "name": "RC CAR",
+        "color": "#3E85FA",
+        "group": 1,
+        "degree": 11,
+        "pagerank": 0.013314617631152704,
+        "object_id": "5154750",
+        "triangles": 55,
+        "eccentricity": 3.0,
+        "closeness centrality": 1.736842105263158,
+        "betweenness centrality": 0.0,
+        "eigenvector centrality": 0
+      },
+      {
+        "id": "ALIEN #3",
+        "name": "ALIEN #3",
+        "color": "#7A40BB",
+        "group": 0,
+        "degree": 7,
+        "pagerank": 0.013294739209853062,
+        "object_id": "5155668",
+        "triangles": 21,
+        "eccentricity": 3.0,
+        "closeness centrality": 1.868421052631579,
+        "betweenness centrality": 0.0,
+        "eigenvector centrality": 0
+      },
+      {
+        "id": "MALE CHORUS",
+        "name": "MALE CHORUS",
+        "color": "#1FAA54",
+        "group": 3,
+        "degree": 7,
+        "pagerank": 0.018004600973410324,
+        "object_id": "5156440",
+        "triangles": 21,
+        "eccentricity": 3.0,
+        "closeness centrality": 1.9210526315789473,
+        "betweenness centrality": 0.0,
+        "eigenvector centrality": 0
+      },
+      {
+        "id": "BUZZ",
+        "name": "BUZZ",
+        "color": "#1FAA54",
+        "group": 3,
+        "degree": 34,
+        "pagerank": 0.09169350010119522,
+        "object_id": "5153730",
+        "triangles": 151,
+        "eccentricity": 2.0,
+        "closeness centrality": 1.105263157894737,
+        "betweenness centrality": 330.81666666666666,
+        "eigenvector centrality": 0
+      },
+      {
+        "id": "TV ANNOUNCER",
+        "name": "TV ANNOUNCER",
+        "color": "#1FAA54",
+        "group": 3,
+        "degree": 7,
+        "pagerank": 0.018004600973410324,
+        "object_id": "5156446",
+        "triangles": 21,
+        "eccentricity": 3.0,
+        "closeness centrality": 1.9210526315789473,
+        "betweenness centrality": 0.0,
+        "eigenvector centrality": 0
+      },
+      {
+        "id": "HANNAH",
+        "name": "HANNAH",
+        "color": "#7A40BB",
+        "group": 0,
+        "degree": 5,
+        "pagerank": 0.01628635187768583,
+        "object_id": "5155833",
+        "triangles": 6,
+        "eccentricity": 3.0,
+        "closeness centrality": 1.894736842105263,
+        "betweenness centrality": 37.0,
+        "eigenvector centrality": 0
+      },
+      {
+        "id": "SLINKY",
+        "name": "SLINKY",
+        "color": "#3E85FA",
+        "group": 1,
+        "degree": 19,
+        "pagerank": 0.054231185946264596,
+        "object_id": "5152861",
+        "triangles": 111,
+        "eccentricity": 3.0,
+        "closeness centrality": 1.5263157894736843,
+        "betweenness centrality": 44.650000000000006,
+        "eigenvector centrality": 0
+      },
+      {
+        "id": "KID #1",
+        "name": "KID #1",
+        "color": "#1FAA54",
+        "group": 3,
+        "degree": 7,
+        "pagerank": 0.01800460097341032,
+        "object_id": "5156420",
+        "triangles": 21,
+        "eccentricity": 3.0,
+        "closeness centrality": 1.9210526315789473,
+        "betweenness centrality": 0.0,
+        "eigenvector centrality": 0
+      },
+      {
+        "id": "ANDY",
+        "name": "ANDY",
+        "color": "#3E85FA",
+        "group": 1,
+        "degree": 17,
+        "pagerank": 0.04619852589635083,
+        "object_id": "5152583",
+        "triangles": 96,
+        "eccentricity": 3.0,
+        "closeness centrality": 1.5789473684210527,
+        "betweenness centrality": 11.399999999999999,
+        "eigenvector centrality": 0
+      },
+      {
+        "id": "TOYS",
+        "name": "TOYS",
+        "color": "#3E85FA",
+        "group": 1,
+        "degree": 12,
+        "pagerank": 0.01943156214203955,
+        "object_id": "5154731",
+        "triangles": 62,
+        "eccentricity": 3.0,
+        "closeness centrality": 1.7105263157894737,
+        "betweenness centrality": 0.5,
+        "eigenvector centrality": 0
+      },
+      {
+        "id": "SARGENT",
+        "name": "SARGENT",
+        "color": "#3E85FA",
+        "group": 1,
+        "degree": 15,
+        "pagerank": 0.036255873974421114,
+        "object_id": "5152849",
+        "triangles": 89,
+        "eccentricity": 3.0,
+        "closeness centrality": 1.631578947368421,
+        "betweenness centrality": 3.9000000000000004,
+        "eigenvector centrality": 0
+      },
+      {
+        "id": "TV BUZZ",
+        "name": "TV BUZZ",
+        "color": "#1FAA54",
+        "group": 3,
+        "degree": 7,
+        "pagerank": 0.01800460097341032,
+        "object_id": "5156480",
+        "triangles": 21,
+        "eccentricity": 3.0,
+        "closeness centrality": 1.9210526315789473,
+        "betweenness centrality": 0.0,
+        "eigenvector centrality": 0
+      },
+      {
+        "id": "PIZZA DELIVERER",
+        "name": "PIZZA DELIVERER",
+        "color": "#FFD12B",
+        "group": 2,
+        "degree": 5,
+        "pagerank": 0.010057237155738532,
+        "object_id": "5155198",
+        "triangles": 10,
+        "eccentricity": 3.0,
+        "closeness centrality": 1.9210526315789473,
+        "betweenness centrality": 0.0,
+        "eigenvector centrality": 0
+      },
+      {
+        "id": "BO PEEP",
+        "name": "BO PEEP",
+        "color": "#3E85FA",
+        "group": 1,
+        "degree": 18,
+        "pagerank": 0.05172689892667738,
+        "object_id": "5152982",
+        "triangles": 111,
+        "eccentricity": 3.0,
+        "closeness centrality": 1.5526315789473684,
+        "betweenness centrality": 7.6499999999999995,
+        "eigenvector centrality": 0
+      },
+      {
+        "id": "ROBOT GUARDS",
+        "name": "ROBOT GUARDS",
+        "color": "#1FAA54",
+        "group": 3,
+        "degree": 1,
+        "pagerank": 0.005924562360611491,
+        "object_id": "5155367",
+        "triangles": 0,
+        "eccentricity": 3.0,
+        "closeness centrality": 2.0789473684210527,
+        "betweenness centrality": 0.0,
+        "eigenvector centrality": 0
+      },
+      {
+        "id": "ALIEN #2",
+        "name": "ALIEN #2",
+        "color": "#7A40BB",
+        "group": 0,
+        "degree": 7,
+        "pagerank": 0.01490909262895445,
+        "object_id": "5155570",
+        "triangles": 21,
+        "eccentricity": 3.0,
+        "closeness centrality": 1.868421052631579,
+        "betweenness centrality": 0.0,
+        "eigenvector centrality": 0
+      },
+      {
+        "id": "MIKE",
+        "name": "MIKE",
+        "color": "#3E85FA",
+        "group": 1,
+        "degree": 9,
+        "pagerank": 0.011605016206725858,
+        "object_id": "5153024",
+        "triangles": 36,
+        "eccentricity": 3.0,
+        "closeness centrality": 2.0,
+        "betweenness centrality": 0.0,
+        "eigenvector centrality": 0
+      },
+      {
+        "id": "WOODY",
+        "name": "WOODY",
+        "color": "#7A40BB",
+        "group": 0,
+        "degree": 28,
+        "pagerank": 0.10132139731367373,
+        "object_id": "5152626",
+        "triangles": 145,
+        "eccentricity": 2.0,
+        "closeness centrality": 1.263157894736842,
+        "betweenness centrality": 108.31666666666669,
+        "eigenvector centrality": 0
+      },
+      {
+        "id": "FRIEND #2",
+        "name": "FRIEND #2",
+        "color": "#3E85FA",
+        "group": 1,
+        "degree": 11,
+        "pagerank": 0.013435191893335828,
+        "object_id": "5153639",
+        "triangles": 55,
+        "eccentricity": 3.0,
+        "closeness centrality": 1.736842105263158,
+        "betweenness centrality": 0.0,
+        "eigenvector centrality": 0
+      },
+      {
+        "id": "FRIEND #1",
+        "name": "FRIEND #1",
+        "color": "#3E85FA",
+        "group": 1,
+        "degree": 11,
+        "pagerank": 0.013435191893335828,
+        "object_id": "5153631",
+        "triangles": 55,
+        "eccentricity": 3.0,
+        "closeness centrality": 1.736842105263158,
+        "betweenness centrality": 0.0,
+        "eigenvector centrality": 0
+      },
+      {
+        "id": "WOUNDED SOLDIER",
+        "name": "WOUNDED SOLDIER",
+        "color": "#3E85FA",
+        "group": 1,
+        "degree": 1,
+        "pagerank": 0.0047158762092684514,
+        "object_id": "5153351",
+        "triangles": 0,
+        "eccentricity": 4.0,
+        "closeness centrality": 2.5,
+        "betweenness centrality": 0.0,
+        "eigenvector centrality": 0
+      },
+      {
+        "id": "ALIEN #4",
+        "name": "ALIEN #4",
+        "color": "#7A40BB",
+        "group": 0,
+        "degree": 7,
+        "pagerank": 0.013294739209853062,
+        "object_id": "5155656",
+        "triangles": 21,
+        "eccentricity": 3.0,
+        "closeness centrality": 1.868421052631579,
+        "betweenness centrality": 0.0,
+        "eigenvector centrality": 0
+      },
+      {
+        "id": "ALIEN #1",
+        "name": "ALIEN #1",
+        "color": "#7A40BB",
+        "group": 0,
+        "degree": 7,
+        "pagerank": 0.01490909262895445,
+        "object_id": "5155566",
+        "triangles": 21,
+        "eccentricity": 3.0,
+        "closeness centrality": 1.868421052631579,
+        "betweenness centrality": 0.0,
+        "eigenvector centrality": 0
+      },
+      {
+        "id": "SPACE COMMANDER",
+        "name": "SPACE COMMANDER",
+        "color": "#1FAA54",
+        "group": 3,
+        "degree": 7,
+        "pagerank": 0.01800460097341032,
+        "object_id": "5156408",
+        "triangles": 21,
+        "eccentricity": 3.0,
+        "closeness centrality": 1.9210526315789473,
+        "betweenness centrality": 0.0,
+        "eigenvector centrality": 0
+      },
+      {
+        "id": "MRS DAVIS",
+        "name": "MRS DAVIS",
+        "color": "#3E85FA",
+        "group": 1,
+        "degree": 15,
+        "pagerank": 0.03894694164433984,
+        "object_id": "5152734",
+        "triangles": 81,
+        "eccentricity": 3.0,
+        "closeness centrality": 1.631578947368421,
+        "betweenness centrality": 5.8999999999999995,
+        "eigenvector centrality": 0
+      },
+      {
+        "id": "ALIENS",
+        "name": "ALIENS",
+        "color": "#7A40BB",
+        "group": 0,
+        "degree": 7,
+        "pagerank": 0.01329473920985306,
+        "object_id": "5155573",
+        "triangles": 21,
+        "eccentricity": 3.0,
+        "closeness centrality": 1.868421052631579,
+        "betweenness centrality": 0.0,
+        "eigenvector centrality": 0
+      }
+    ],
+    "positions": [
+      {
+        "x": -24.899681,
+        "y": 88.03573,
+        "name": "ATTENDANT"
+      },
+      {
+        "x": -228.53568,
+        "y": -194.8612,
+        "name": "MR SPELL"
+      },
+      {
+        "x": 246.94069,
+        "y": 240.73553,
+        "name": "KID #2"
+      },
+      {
+        "x": -144.87709,
+        "y": 250.85547,
+        "name": "MOM"
+      },
+      {
+        "x": 89.228676,
+        "y": 28.093508,
+        "name": "SID'S MOM"
+      },
+      {
+        "x": -229.51218,
+        "y": 24.506224,
+        "name": "ROBOT"
+      },
+      {
+        "x": -136.98395,
+        "y": -45.41031,
+        "name": "MR POTATO HEAD"
+      },
+      {
+        "x": 24.686558,
+        "y": -62.24283,
+        "name": "SID"
+      },
+      {
+        "x": -251.7797,
+        "y": -122.009,
+        "name": "LENNY"
+      },
+      {
+        "x": -96.57854,
+        "y": -113.04948,
+        "name": "HAMM"
+      },
+      {
+        "x": -76.04552,
+        "y": 146.9229,
+        "name": "ALIEN"
+      },
+      {
+        "x": -184.36748,
+        "y": -96.69454,
+        "name": "REX"
+      },
+      {
+        "x": 274.21848,
+        "y": 193.46495,
+        "name": "LOCAL ANNOUNCER"
+      },
+      {
+        "x": -189.54614,
+        "y": 60.512577,
+        "name": "RC CAR"
+      },
+      {
+        "x": 129.30786,
+        "y": -89.68071,
+        "name": "ALIEN #3"
+      },
+      {
+        "x": 216.26694,
+        "y": 205.30643,
+        "name": "MALE CHORUS"
+      },
+      {
+        "x": -10.936935,
+        "y": 19.662695,
+        "name": "BUZZ"
+      },
+      {
+        "x": 302.48013,
+        "y": 239.79944,
+        "name": "TV ANNOUNCER"
+      },
+      {
+        "x": -71.88474,
+        "y": 100.43025,
+        "name": "HANNAH"
+      },
+      {
+        "x": -183.80441,
+        "y": -38.314503,
+        "name": "SLINKY"
+      },
+      {
+        "x": 223.2835,
+        "y": 298.8945,
+        "name": "KID #1"
+      },
+      {
+        "x": -95.37497,
+        "y": -65.95127,
+        "name": "ANDY"
+      },
+      {
+        "x": -245.2214,
+        "y": -66.88237,
+        "name": "TOYS"
+      },
+      {
+        "x": -148.74675,
+        "y": -140.18492,
+        "name": "SARGENT"
+      },
+      {
+        "x": 194.50183,
+        "y": 257.70953,
+        "name": "TV BUZZ"
+      },
+      {
+        "x": -30.03758,
+        "y": 133.97818,
+        "name": "PIZZA DELIVERER"
+      },
+      {
+        "x": -141.88487,
+        "y": -90.10385,
+        "name": "BO PEEP"
+      },
+      {
+        "x": 39.70146,
+        "y": 116.231224,
+        "name": "ROBOT GUARDS"
+      },
+      {
+        "x": 182.15697,
+        "y": -92.52561,
+        "name": "ALIEN #2"
+      },
+      {
+        "x": -176.88364,
+        "y": -217.72963,
+        "name": "MIKE"
+      },
+      {
+        "x": -66.91722,
+        "y": -27.48294,
+        "name": "WOODY"
+      },
+      {
+        "x": -269.17996,
+        "y": -20.359922,
+        "name": "FRIEND #2"
+      },
+      {
+        "x": -87.59005,
+        "y": -190.1954,
+        "name": "FRIEND #1"
+      },
+      {
+        "x": 26.000927,
+        "y": 83.51247,
+        "name": "WOUNDED SOLDIER"
+      },
+      {
+        "x": 150.62564,
+        "y": -136.88446,
+        "name": "ALIEN #4"
+      },
+      {
+        "x": 150.11006,
+        "y": -41.246952,
+        "name": "ALIEN #1"
+      },
+      {
+        "x": 275.76132,
+        "y": 283.25555,
+        "name": "SPACE COMMANDER"
+      },
+      {
+        "x": -122.15884,
+        "y": 5.9914403,
+        "name": "MRS DAVIS"
+      },
+      {
+        "x": 198.01291,
+        "y": -44.97956,
+        "name": "ALIENS"
+      }
+    ]
+  }
+}
